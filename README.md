@@ -6,16 +6,17 @@ delivered at [embedded world 2022](https://www.embedded-world.de)
 
 ## Preparations
 
-Before the class, you should install the following software on your
-laptop:
+Before the class, you should do the following steps:
 
-* [Cargo](https://doc.rust-lang.org/cargo/getting-started/installation.html)
-* [Visual Studio Code](https://code.visualstudio.com)
-* Extension
+* Install [Cargo](https://doc.rust-lang.org/cargo/getting-started/installation.html)
+* Install [Visual Studio Code](https://code.visualstudio.com)
+* Install the
   [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
-  for Visual Studio Code, do **not** install the *Rust* extension.
-* For debugging: extension [CodeLLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb)
+  extension for Visual Studio Code, do **not** install the *Rust* extension.
+* For debugging: install extension [CodeLLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb)
 * Clone this repository and do Exercise 0 of [practice session 1](practice-01)
+
+*Note:* it's not strictly necessary to install Visual Studio Code, any other editor is also fine. But Visual Studio Code has several helpful features, such as showing inferred types.
 
 ## Material
 
